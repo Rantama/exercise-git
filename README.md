@@ -23,12 +23,20 @@ readme.md file, click the edit icon and start answering the questions.
 ###Answers
 
 #### 1 What is Git?
-
+  An open source version control software
 #### 2 What is Github?
-
+  a remote server, a community of developers, and a graphical web interface for managing your Git project.
 #### 3 Describe the command that were used on Try Git tutorial.
-
+  git status - get current state of project
+  git init - initiate git repository
+  git add - add to staging area
+  git commit -m - store stage changes
+  git add '*.txt' - add many file to directory
+  git log - getting logs to all the changes
+  
+  
 #### 4 What are the main advantages?
+  any changes done will not make any changes to the master.  Each person can work on his or her copy without damaging the master
 
 ##Exercise
 
